@@ -8,10 +8,5 @@
       "id": 1
     }
   ],
-  "animals": [
-    {
-      "type": "gato",
-      "name": "Kat"
-    }
-  ]
+  "animals": []
 }
